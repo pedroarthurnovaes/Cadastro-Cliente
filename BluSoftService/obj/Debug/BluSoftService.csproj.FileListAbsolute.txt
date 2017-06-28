@@ -1,0 +1,22 @@
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\bin\Debug\Repository\Database.mdf
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\bin\Debug\Repository\Database_log.ldf
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\bin\Debug\BluSoftService.dll.config
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\bin\Debug\BluSoftService.dll
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\bin\Debug\BluSoftService.pdb
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\obj\Debug\BluSoftService.dll
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoft6-master\BluSoftService\obj\Debug\BluSoftService.pdb
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\bin\Debug\Repository\Database.mdf
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\bin\Debug\Repository\Database_log.ldf
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\bin\Debug\BluSoftService.dll.config
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\bin\Debug\BluSoftService.dll
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\bin\Debug\BluSoftService.pdb
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\obj\Debug\BluSoftService.csprojResolveAssemblyReference.cache
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\obj\Debug\BluSoftService.dll
+D:\Users\Pedro\Documents\Projetos\Git\Local\BluSoftService\obj\Debug\BluSoftService.pdb
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\bin\Debug\Repository\Database.mdf
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\bin\Debug\Repository\Database_log.ldf
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\obj\Debug\BluSoftService.dll
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\obj\Debug\BluSoftService.pdb
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\bin\Debug\BluSoftService.dll.config
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\bin\Debug\BluSoftService.dll
+D:\Users\Pedro\Documents\Projetos\Git\Local\TesteBluSoft 1.0\BluSoftService\bin\Debug\BluSoftService.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="Cliente" EntityType="DatabaseModel.Store.Cliente" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CPF" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="RG" Type="varchar" MaxLength="20" />
+    <Property Name="Nome" Type="varchar" Nullable="false" MaxLength="120" />
+    <Property Name="DataNascimento" Type="date" Nullable="false" />
+    <Property Name="Telefone" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="UF" Type="varchar" Nullable="false" MaxLength="2" />
+  </EntityType>
+</Schema>
