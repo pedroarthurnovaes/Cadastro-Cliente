@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BluSoft", "BluSoft\", "{9F465D3B-81B8-425D-BFBA-BED667BA0623}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{f6696d46-09f2-4d1d-8e5f-ae9a8cc53ef3}|BluSoftService.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_24193"
+		Debug.AspNetCompiler.PhysicalPath = "BluSoft\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24193\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_24193"
+		Release.AspNetCompiler.PhysicalPath = "BluSoft\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24193\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24193"
+		SlnRelativePath = "BluSoft\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluSoftService", "BluSoftService\BluSoftService.csproj", "{F6696D46-09F2-4D1D-8E5F-AE9A8CC53EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F465D3B-81B8-425D-BFBA-BED667BA0623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F465D3B-81B8-425D-BFBA-BED667BA0623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F465D3B-81B8-425D-BFBA-BED667BA0623}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F465D3B-81B8-425D-BFBA-BED667BA0623}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F6696D46-09F2-4D1D-8E5F-AE9A8CC53EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6696D46-09F2-4D1D-8E5F-AE9A8CC53EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6696D46-09F2-4D1D-8E5F-AE9A8CC53EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6696D46-09F2-4D1D-8E5F-AE9A8CC53EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
